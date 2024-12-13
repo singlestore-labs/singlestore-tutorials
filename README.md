@@ -1,4 +1,4 @@
-# singlestore-tutorials
+# SingleStore Tutorials Repository
 SingleStore Tutorials
 
 ## Introduction
