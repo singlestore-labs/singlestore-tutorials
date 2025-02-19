@@ -1,5 +1,4 @@
 # SingleStore Tutorials Repository
-SingleStore Tutorials
 
 ## Introduction
 Welcome to the SingleStore Tutorials repository! Here, you will find a collection of resources and videos designed to help you get started with SingleStore, a powerful real-time database platform.
