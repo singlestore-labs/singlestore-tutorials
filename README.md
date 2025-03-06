@@ -11,6 +11,6 @@ Check out our introductory video that guides you through navigating the SingleSt
 [Watch the video here](https://www.youtube.com/watch?v=AGYzxHadOqw?utm_source=brendan&utm_medium=other&utm_campaign=helios&utm_content=brendan-portal-tour)
 
 ## Additional Resources
-- Sign up for SingleStore’s Free Shared Tier today: [Free Tier Signup](https://bit.ly/singlestore-free-tier)
+- Sign up for SingleStore’s Free Shared Tier today: [Free Tier Signup](https://www.singlestore.com/cloud-trial/?utm_source=brendan&utm_medium=other&utm_campaign=helios&utm_content=brendan-trial-github)
 
 Stay tuned for more tutorials and resources!
